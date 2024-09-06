@@ -21,11 +21,11 @@
     "webpack-dev-server": "^2.8.1"
   },
   "dependencies": {
-    "gh-pages": "^1.0.0",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-redux": "^5.0.6",
-    "redux": "^3.7.2"
+    "gh-pages": "^5.0.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "webpack-dev-server",
